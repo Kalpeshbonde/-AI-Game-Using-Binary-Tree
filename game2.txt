@@ -1,0 +1,11 @@
+Animal Guessing Game
+You're asked to guess an animal by answering a 
+series of questions.
+300 Is it a mammal? (Y/N)
+280 Does it fly? (Y/N)
+260 Does it live in water? (Y/N)
+320 It's a dolphin
+340 It's a bat
+290 Is it a big cat? (Y/N)
+310 It's a lion
+330 It's a tiger
