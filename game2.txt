@@ -1,11 +1,33 @@
-Animal Guessing Game
-You're asked to guess an animal by answering a 
-series of questions.
-300 Is it a mammal? (Y/N)
-280 Does it fly? (Y/N)
-260 Does it live in water? (Y/N)
-320 It's a dolphin
-340 It's a bat
-290 Is it a big cat? (Y/N)
-310 It's a lion
-330 It's a tiger
+Movie Quest!
+Program will guess the Movie you are thinking of!
+400 Is it English? (y/n)
+180 Is it Animated? (y/n)
+160 Does it involve Animals? (y/n)
+300 Does it have Action? (y/n)
+140 Does it involve Fishes? (y/n)
+170 Is it Romantic? (y/n)
+200 Is Tom Hanks in it? (y/n)
+350 Is it about a Ship? (y/n)
+120 It is Finding Nemo!
+150 It is 101 Dalmations!
+165 It is Elementals!
+175 It is How to Train your Dragons!
+190 It is Mission Impossible!
+250 It is Iron Man!
+320 It is Titanic!
+380 It is La La Land!
+600 Is it Romantic? (y/n)
+500 Is Shah Ruk Khan in it? (y/n)
+800 Is Salman Khan in it? (y/n)
+450 Is Hrithik Roshan in it? (y/n)
+550 Is Ranbir Kapoor in it? (y/n)
+700 Is is Police Officer in it? (y/n)
+900 Is Hrithik Roshan in it? (y/n)
+420 It is Kabhi Khushi Kabhi Gham!
+470 It is Kuch Kuch Hota Hain!
+530 It is Yeh Jawani Hain Deewani!
+580 It is Jab We Met!
+640 It is Dabangg!
+730 It is Sultan!
+850 It is Dhoom 2!
+950 It is Uri!
