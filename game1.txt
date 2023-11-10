@@ -1,8 +1,33 @@
-Movie Guessing Game
-You're asked to guess a movie name by answering a 
-series of questions.
-200 Is it animated? (Y/N)
-180 Are fishes involved? (Y/N)
-160 It's "Finding Nemo"
-190 It's "Lion King"
-220 Is it romantic? (Y/N)
+Living no living 
+AI wil Guess the thing you Decide on!
+400 Is it living ? (y/n)
+180 Is it an animal? (y/n)
+160 does it have a tail? (y/n)
+300 is it a plant ? (y/n)
+140 does it live on land? (y/n)
+170 is it domestic? (y/n)
+200 does it have flower ? (y/n)
+350 is it unicellular ? (y/n)
+120 It is a lion!
+150 It is a fish !
+165 It is a tortoise!
+175 It is a porcupine
+190 It is a rose !
+250 It is fungi!
+320 It is an amoeba !
+380 It is a human !
+600 Is it mode of transport ? (y/n)
+500 runs on land? (y/n)
+800 is it electronic ? (y/n)
+450 does it have 4 wheels ? (y/n)
+550 does it fly ? (y/n)
+700 Is it used to make calls? (y/n)
+900 Is it clothing? (y/n)
+420 It is a car !
+470 It is a bike!
+530 It is a plane!
+580 It is a ship !
+640 It is a cellphone!
+730 It is a television!
+850 It is a T-shirt !
+950 It is a table!
